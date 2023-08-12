@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Agile Cyber solutions](https://www.agilecyber.com/)
 
-- 🌱 I’m currently learning **Flutter,Angular**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **abishekabi992@gmail.com**
 
