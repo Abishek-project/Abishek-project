@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=https://www.linkedin.com/in/abishek-j-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abishek-j-2777a1212/" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/abishek-j-dev/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abishek-j-2777a1212/" height="30" width="40" /></a>
 <a href="https://instagram.com/the_mask_man_abi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_mask_man_abi" height="30" width="40" /></a>
 </p>
 
